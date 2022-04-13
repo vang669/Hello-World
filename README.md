@@ -1,6 +1,6 @@
 # Hello-World
 ## My name is Kong Meng Vang
-I am currently in Junior standing
+I am currently in Junior standing<br>
 My hobbies are:
 1. barber 
 2. fishing
